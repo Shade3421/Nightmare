@@ -1,0 +1,4 @@
+fade
+requests
+colorama
+discord
