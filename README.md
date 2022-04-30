@@ -12,8 +12,4 @@
 **Nightmare** was made by Shade#3421 <br/>
 🌟 **Star** this repo if you enjoy!
 
-  ,d88b.d88b,
-  88888888888
-  `Y8888888Y'
-    `Y888Y'
-      `Y'
+<3
