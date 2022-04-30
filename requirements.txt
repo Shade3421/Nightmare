@@ -2,3 +2,4 @@ fade
 requests
 colorama
 discord
+tqdm
